@@ -1,4 +1,5 @@
 GITの練習
 基本のワークフローを学ぶ
 Git Add
-Gi Commit
+Git Commit
+Git Diff
